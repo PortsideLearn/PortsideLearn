@@ -12,3 +12,6 @@ Hello,my name is Sergey or I'm known as Portsdie in social networks, I develop i
 
 ##
 - [Order a bot](https://vk.com/portsidelearn)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PortsideLearn&count_private=true)
