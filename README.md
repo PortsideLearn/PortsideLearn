@@ -13,5 +13,6 @@ Hello,my name is Sergey or I'm known as Portsdie in social networks, I develop i
 ##
 - [Order a bot](https://vk.com/portsidelearn)
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PortsideLearn&count_private=true&theme=radical)
+<a href="https://discord.com/users/967308327367364648" target="_blank">
+  <img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/235413185639874561?theme=light&borderRadius=5px">
+<a />
