@@ -11,7 +11,7 @@ Hello,my name is Sergey or I'm known as Portsdie in social networks, I develop i
 
 ## Current Projects
 
-- [Global Faceit](https://vk.com/global.faceit) - **Bot with a system of ranked games for competitive matches**
+- [Elite Faceit](https://vk.com/faceit_elite) - **Bot with a system of ranked games for competitive matches**
 
 ##
 - [Order a bot](https://vk.com/portsidelearn)
